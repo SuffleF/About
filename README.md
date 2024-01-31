@@ -1,5 +1,5 @@
 # About me:
-Hi, I'm SuffleF.  I'm junior fullstack developer.<br><br>You can contact me: furkansemih07@gmail.com
+Hi, I'm SuffleF.  I'm junior web developer.<br><br>You can contact me: furkansemih07@gmail.com
 
 
 # 💻 Tech Stack:
