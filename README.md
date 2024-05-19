@@ -1,4 +1,4 @@
-<p align="left">Hi, my nickname is SuffleF. I'm junior web developer. <br><br> My mail adress 📫 furkansemih07@gmail.com<br><br>I'm proficient in HTML, CSS, Javascript, NodeJS, Go, SQL, PostgreSQL, MongoDB, VueJS, NuxtJS, TailwindCSS, Github, Git, RestAPI, Docker, and I can use Photoshop at an advanced level.</p>
+<p align="left">Hi, my name is Furkan Semih. I'm junior web developer. <br><br> My mail adress 📫 furkansemih07@gmail.com<br><br>I'm proficient in HTML, CSS, Javascript, NodeJS, Go, SQL, PostgreSQL, MongoDB, VueJS, NuxtJS, TailwindCSS, Github, Git, RestAPI, Docker, and I can use Photoshop at an advanced level.</p>
 
 ###
 
